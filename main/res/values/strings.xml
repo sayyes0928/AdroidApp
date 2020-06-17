@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAppFirst200616</string>
+    <string-array name="aaa"> <!-- 스피너에 넣을 항목을 item으로 넣는다-->
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+</resources>
